@@ -1,3 +1,8 @@
+(my-label)=
+## My header
+
+Here's some text and [here's my label](my-label).
+
 # Here's my sample title
 
 This is some sample text.
